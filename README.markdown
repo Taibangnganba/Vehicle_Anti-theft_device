@@ -110,10 +110,6 @@ The device was tested on a two-wheeler scooter (Activa) over several weeks, demo
 
 - **Software License**: The Arduino code in `/src/` is licensed under the MIT License. You are free to use, modify, and distribute the code, provided you include the copyright notice and disclaimer.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository, make your changes, and submit a pull request. See CONTRIBUTING.md for guidelines.
-
 ## Acknowledgements
 
 - **Dr. Loitongbam Surajkumar Singh**, Assistant Professor, Department of Electronics and Communication Engineering, NIT Manipur, for guidance and support.
